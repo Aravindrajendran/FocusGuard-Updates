@@ -1,9 +1,9 @@
 {
   "app": "FocusGuard",
   "packageName": "com.focusguard",
-  "versionCode": 1014,
-  "versionName": "1.2.14",
+  "versionCode": 1018,
+  "versionName": "1.2.18",
   "releaseNotes": "Prototype build. In-place updates are not yet supported until persistent release signing is configured.",
-  "apkUrl": "https://github.com/Aravindrajendran/FocusGuard-Updates/releases/download/focusguard-build-14/app-debug.apk",
+  "apkUrl": "https://github.com/Aravindrajendran/FocusGuard-Updates/releases/download/focusguard-build-18/app-debug.apk",
   "minimumSupportedVersionCode": 0
 }
